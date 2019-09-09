@@ -1,5 +1,5 @@
 ## Tableau I 
 [Exercises](TableauI_Exercises.pdf)
 
-**Data**/
+**Data** /
 [2016_WBIndicators.csv](2016_WBIndicators.csv)
