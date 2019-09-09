@@ -1,6 +1,8 @@
-Tableau Workshops at UNC
+Tableau Workshops
 ====
 
-* [Tableau 1](Python1/Python-1.html)
+##Tableau I 
+[Exercises](TableauI_Exercises.pdf)
 
-* [Tableau 2](Python2/Python-2.html)
+**Data**
+[2016_WBIndicators.csv](2016_WBIndicators.csv)
