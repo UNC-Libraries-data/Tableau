@@ -1,6 +1,3 @@
-Tableau Workshops
-====
-
 ## Tableau I 
 [Exercises](TableauI_Exercises.pdf)
 
