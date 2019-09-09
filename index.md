@@ -3,7 +3,9 @@
 
 **Data**\
 [2016_WBIndicators.csv](2016_WBIndicators.csv)
-\\
+
+\
+
 # Tableau II 
 [Tableau II Exercises](TableauII_Exercises.pdf)
 
