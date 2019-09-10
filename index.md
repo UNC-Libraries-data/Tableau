@@ -1,11 +1,11 @@
-# Tableau I 
+# Tableau I Workshop
 [Tableau I Exercises](TableauI_Exercises.pdf)
 
 **Data**<br>
 [2016_WBIndicators.csv](2016_WBIndicators.csv)  <br><br>
 
 
-# Tableau II 
+# Tableau II Workshop
 [Tableau II Exercises](TableauII_Exercises.pdf)
 
 **Data**<br>
