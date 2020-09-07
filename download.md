@@ -6,7 +6,7 @@
 
 ## If you are a STUDENT:
 
-1. Go to https://www.tableau.com/academic/students
+1. Go to [https://www.tableau.com/academic/students](https://www.tableau.com/academic/students)
 1. Click on "GET TABLEAU FOR FREE"
 1. Complete and submit the form provided with the **same information your school has on file**.
 1. You should recieve an email with instructions for downloading and installing Tableau along with a lincense key.
