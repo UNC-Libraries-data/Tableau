@@ -10,9 +10,9 @@
 [2018_WBIndicators.csv](2018_WBIndicators.csv)  <br><br>
 
 
-# Tableau II Workshop
-[Tableau II Exercises](TableauII_Exercises.pdf)
+[comment]: # (# Tableau II Workshop)
+[comment]: # ([Tableau II Exercises](TableauII_Exercises.pdf))
 
-**Data**<br>
-[IPEDS_data.csv](IPEDS_data.csv)<br>
-[uni_websites.csv](uni_websites.csv)
+[comment]: # (**Data**<br>)
+[comment]: # ([IPEDS_data.csv](IPEDS_data.csv)<br>)
+[comment]: # ([uni_websites.csv](uni_websites.csv))
