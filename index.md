@@ -1,8 +1,13 @@
+# Getting Started
+[Download and Install Tableau](download.md)  <br><br>
+
+
 # Tableau I Workshop
 [Tableau I Exercises](TableauI_Exercises.pdf)
+[Tableau I Video]()
 
 **Data**<br>
-[2016_WBIndicators.csv](2016_WBIndicators.csv)  <br><br>
+[2018_WBIndicators.csv](2018_WBIndicators.csv)  <br><br>
 
 
 # Tableau II Workshop
