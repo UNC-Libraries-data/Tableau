@@ -1,3 +1,5 @@
+.comment { display: none; }
+
 # Getting Started
 [Download and Install Tableau](download.md)  <br><br>
 
@@ -10,9 +12,9 @@
 [2018_WBIndicators.csv](2018_WBIndicators.csv)  <br><br>
 
 
-[comment]: # (# Tableau II Workshop)
-[comment]: # ([Tableau II Exercises](TableauII_Exercises.pdf))
+<span class="comment"># Tableau II Workshop</span>
+<span class="comment">[Tableau II Exercises](TableauII_Exercises.pdf)</span>
 
-[comment]: # (**Data**<br>)
-[comment]: # ([IPEDS_data.csv](IPEDS_data.csv)<br>)
-[comment]: # ([uni_websites.csv](uni_websites.csv))
+<span class="comment">**Data**<br></span>
+<span class="comment">[IPEDS_data.csv](IPEDS_data.csv)<br></span>
+<span class="comment">[uni_websites.csv](uni_websites.csv)</span>
