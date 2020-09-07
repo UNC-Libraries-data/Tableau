@@ -3,7 +3,7 @@
 
 
 # Tableau I Workshop
-[Tableau I Exercises](TableauI_Exercises.pdf)
+[Tableau I Exercises](TableauI_Exercises.pdf)<br>
 [Tableau I Video]()
 
 **Data**<br>
