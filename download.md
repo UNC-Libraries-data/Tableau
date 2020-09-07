@@ -2,7 +2,7 @@
 
 # Instructions for Downloading Tableau
 
-**Note:** If you are unable to install Tableau, please contact [Lorin Bruckner](https://guides.lib.unc.edu/lorinbruckner) **BEFORE** the workshop or class you are participating in. There will **not** be time to download the software during your workshop or class.
+**Note:** If you have problems installing Tableau, please contact [Lorin Bruckner](https://guides.lib.unc.edu/lorinbruckner) **BEFORE** the workshop or class you are participating in. There will **not** be time to install the software during your workshop or class.
 
 ## If you are a STUDENT:
 
