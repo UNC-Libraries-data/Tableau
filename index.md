@@ -3,8 +3,8 @@
 
 
 # Tableau I Workshop
-[Tableau I Video]()
-[Tableau I Exercises](TableauI_Exercises.pdf)<br>
+[Tableau I Video]()<br>
+[Tableau I Exercises](TableauI_Exercises.pdf)
 
 **Tableau I Data**<br>
 [2018_WBIndicators.csv](2018_WBIndicators.csv)  <br><br>
