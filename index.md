@@ -3,7 +3,7 @@
 
 
 # Tableau I Workshop
-[Tableau I Video]()<br>
+[Tableau I Video](https://youtu.be/hsTm7w4FLhI)<br>
 [Tableau I Exercises](TableauI_Exercises.pdf)
 
 **Tableau I Data**<br>
