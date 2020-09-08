@@ -13,20 +13,20 @@
 
 ## If you are an INSTRUCTOR or using Tableau for NON-PROFIT RESEARCH:
 
-1. Go to https://www.tableau.com/academic/teaching
+1. Go to [https://www.tableau.com/academic/teaching](https://www.tableau.com/academic/teaching)
 1. Click on "REQUEST INDIVIDUAL LICENSE"
 1. Complete and submit the form provided. It may take several days for your application to be reviewed.
 1. If accepted, you should recieve an email with instructions for downloading and installing Tableau along with a lincense key.
 
 ## If you are NOT a student, instructor or non-profit researcher:
 
-1. Go to https://public.tableau.com/
+1. Go to [https://public.tableau.com/](https://public.tableau.com/)
 1. Type your e-mail address into the text box and click on "Download the App".
 1. You should automatically be prompted to download a file. Save it to your computer.
 1. After downloading the file, double click on it and follow the instructions to install Tableau.
 
-## To save your work for the discussion, you will need a Tableau Public Profile. Follow the instructions below to create one.
+## To save or publish your work, you will need a Tableau Public Profile. Follow the instructions below to create one.
 
-1. Go to https://public.tableau.com/
+1. Go to [https://public.tableau.com/](https://public.tableau.com/)
 1. In the upper right corner, click on "SIGN UP".
 1. Fill out the form and click on "Create my Profile".
