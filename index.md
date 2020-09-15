@@ -14,6 +14,6 @@
 [Tableau II Video](https://youtu.be/FFkP40ubTiA)<br>
 [Tableau II Exercises](TableauII_Exercises.pdf)
 
-**Data**<br>
+**Tableau II Data**<br>
 [ipeds_2018.csv](ipeds_2018.csv)<br>
 [university_websites.csv](university_websites.csv)
