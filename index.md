@@ -11,6 +11,7 @@
 
 
 # Tableau II Workshop
+[Tableau II Video](https://youtu.be/xakyuem_BF8)<br>
 [Tableau II Exercises](TableauII_Exercises.pdf)
 
 **Tableau II Data**<br>
