@@ -15,5 +15,4 @@
 [Tableau II Exercises](TableauII_Exercises.pdf)
 
 **Tableau II Data**<br>
-[ipeds_2018.csv](ipeds_2018.csv)<br>
-[university_websites.csv](university_websites.csv) 
+[ipeds_2022.xlsx](ipeds_2022.xlsx)<br>
